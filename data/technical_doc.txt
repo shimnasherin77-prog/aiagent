@@ -1,0 +1,4 @@
+Technical Documentation:
+The system uses FastAPI for backend services.
+FAISS is used for vector storage in RAG implementation.
+OpenAI embeddings are used to convert documents into vectors.
